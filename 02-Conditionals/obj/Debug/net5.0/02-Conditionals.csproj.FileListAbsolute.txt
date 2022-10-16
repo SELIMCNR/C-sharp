@@ -1,0 +1,16 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\bin\Debug\net5.0\02-Conditionals.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\bin\Debug\net5.0\02-Conditionals.deps.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\bin\Debug\net5.0\02-Conditionals.runtimeconfig.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\bin\Debug\net5.0\02-Conditionals.runtimeconfig.dev.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\bin\Debug\net5.0\02-Conditionals.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\bin\Debug\net5.0\02-Conditionals.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\obj\Debug\net5.0\02-Conditionals.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\obj\Debug\net5.0\02-Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\obj\Debug\net5.0\02-Conditionals.AssemblyInfoInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\obj\Debug\net5.0\02-Conditionals.AssemblyInfo.cs
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\obj\Debug\net5.0\02-Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\obj\Debug\net5.0\02-Conditionals.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\obj\Debug\net5.0\refint\02-Conditionals.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\obj\Debug\net5.0\02-Conditionals.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\obj\Debug\net5.0\02-Conditionals.genruntimeconfig.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGeliştirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-programlama\Btk-Akademi\BtkAkademi\02-Conditionals\obj\Debug\net5.0\ref\02-Conditionals.dll
