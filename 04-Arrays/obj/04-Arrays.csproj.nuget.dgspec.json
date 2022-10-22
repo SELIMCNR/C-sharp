@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\03-Methods\\03-Methods.csproj": {}
+    "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\04-Arrays\\04-Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\03-Methods\\03-Methods.csproj": {
+    "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\04-Arrays\\04-Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\03-Methods\\03-Methods.csproj",
-        "projectName": "03-Methods",
-        "projectPath": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\03-Methods\\03-Methods.csproj",
+        "projectUniqueName": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\04-Arrays\\04-Arrays.csproj",
+        "projectName": "04-Arrays",
+        "projectPath": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\04-Arrays\\04-Arrays.csproj",
         "packagesPath": "C:\\Users\\SelimCinar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\03-Methods\\obj\\",
+        "outputPath": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\04-Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

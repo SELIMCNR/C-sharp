@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\03-Methods\\03-Methods.csproj",
-      "projectName": "03-Methods",
-      "projectPath": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\03-Methods\\03-Methods.csproj",
+      "projectUniqueName": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\05-Donguler\\05-Donguler.csproj",
+      "projectName": "05-Donguler",
+      "projectPath": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\05-Donguler\\05-Donguler.csproj",
       "packagesPath": "C:\\Users\\SelimCinar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\03-Methods\\obj\\",
+      "outputPath": "C:\\Users\\SelimCinar\\Desktop\\dersler\\YazılımGelistirici\\YazılımGeliştrime\\Nesne Tabanlı Programlama\\C#-programlama\\Btk-Akademi\\BtkAkademi\\05-Donguler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
