@@ -1,0 +1,15 @@
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\bin\Debug\net7.0\09-Interfaces.exe
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\bin\Debug\net7.0\09-Interfaces.deps.json
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\bin\Debug\net7.0\09-Interfaces.runtimeconfig.json
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\bin\Debug\net7.0\09-Interfaces.dll
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\bin\Debug\net7.0\09-Interfaces.pdb
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\obj\Debug\net7.0\09-Interfaces.csproj.AssemblyReference.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\obj\Debug\net7.0\09-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\obj\Debug\net7.0\09-Interfaces.AssemblyInfoInputs.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\obj\Debug\net7.0\09-Interfaces.AssemblyInfo.cs
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\obj\Debug\net7.0\09-Interfaces.csproj.CoreCompileInputs.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\obj\Debug\net7.0\09-Interfaces.dll
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\obj\Debug\net7.0\refint\09-Interfaces.dll
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\obj\Debug\net7.0\09-Interfaces.pdb
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\obj\Debug\net7.0\09-Interfaces.genruntimeconfig.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\BtkC-Sharp\BtkAkademi\09-Interfaces\obj\Debug\net7.0\ref\09-Interfaces.dll
