@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\Methods\\03-Methods.csproj": {}
+    "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\Methods\\03-Methods.csproj": {
+    "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\Methods\\03-Methods.csproj",
-        "projectName": "03-Methods",
-        "projectPath": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\Methods\\03-Methods.csproj",
+        "projectUniqueName": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\Methods\\Methods.csproj",
+        "projectName": "Methods",
+        "projectPath": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\btk02\\.nuget\\packages\\",
         "outputPath": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\Methods\\obj\\",
         "projectStyle": "PackageReference",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\02-Conditionals\\02-Conditionals.csproj",
-      "projectName": "02-Conditionals",
-      "projectPath": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\02-Conditionals\\02-Conditionals.csproj",
+      "projectUniqueName": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\BtkAkademi\\01 TypesAndVariables.csproj",
+      "projectName": "01 TypesAndVariables",
+      "projectPath": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\BtkAkademi\\01 TypesAndVariables.csproj",
       "packagesPath": "C:\\Users\\btk02\\.nuget\\packages\\",
-      "outputPath": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\02-Conditionals\\obj\\",
+      "outputPath": "C:\\Dersler\\Yazılım geliştirme\\C#-programlama\\Btk-Akademi\\BtkC-Sharp\\BtkAkademi\\BtkAkademi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\btk02\\AppData\\Roaming\\NuGet\\NuGet.Config",
