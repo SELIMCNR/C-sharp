@@ -1,0 +1,15 @@
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\bin\Debug\net7.0\02_Condinationals.exe
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\bin\Debug\net7.0\02_Condinationals.deps.json
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\bin\Debug\net7.0\02_Condinationals.runtimeconfig.json
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\bin\Debug\net7.0\02_Condinationals.dll
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\bin\Debug\net7.0\02_Condinationals.pdb
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\obj\Debug\net7.0\02_Condinationals.csproj.AssemblyReference.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\obj\Debug\net7.0\02_Condinationals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\obj\Debug\net7.0\02_Condinationals.AssemblyInfoInputs.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\obj\Debug\net7.0\02_Condinationals.AssemblyInfo.cs
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\obj\Debug\net7.0\02_Condinationals.csproj.CoreCompileInputs.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\obj\Debug\net7.0\02_Condinationals.dll
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\obj\Debug\net7.0\refint\02_Condinationals.dll
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\obj\Debug\net7.0\02_Condinationals.pdb
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\obj\Debug\net7.0\02_Condinationals.genruntimeconfig.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\02_Condinationals\obj\Debug\net7.0\ref\02_Condinationals.dll

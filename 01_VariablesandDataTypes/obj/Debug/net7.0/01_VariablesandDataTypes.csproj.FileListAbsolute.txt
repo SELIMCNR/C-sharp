@@ -1,0 +1,15 @@
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\bin\Debug\net7.0\01_VariablesandDataTypes.exe
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\bin\Debug\net7.0\01_VariablesandDataTypes.deps.json
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\bin\Debug\net7.0\01_VariablesandDataTypes.runtimeconfig.json
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\bin\Debug\net7.0\01_VariablesandDataTypes.dll
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\bin\Debug\net7.0\01_VariablesandDataTypes.pdb
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\obj\Debug\net7.0\01_VariablesandDataTypes.csproj.AssemblyReference.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\obj\Debug\net7.0\01_VariablesandDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\obj\Debug\net7.0\01_VariablesandDataTypes.AssemblyInfoInputs.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\obj\Debug\net7.0\01_VariablesandDataTypes.AssemblyInfo.cs
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\obj\Debug\net7.0\01_VariablesandDataTypes.csproj.CoreCompileInputs.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\obj\Debug\net7.0\01_VariablesandDataTypes.dll
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\obj\Debug\net7.0\refint\01_VariablesandDataTypes.dll
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\obj\Debug\net7.0\01_VariablesandDataTypes.pdb
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\obj\Debug\net7.0\01_VariablesandDataTypes.genruntimeconfig.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\Btk-Csharp\obj\Debug\net7.0\ref\01_VariablesandDataTypes.dll
