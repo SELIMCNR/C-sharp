@@ -1,0 +1,11 @@
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\bin\Debug\08_RecapDemo1.exe.config
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\bin\Debug\08_RecapDemo1.exe
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\bin\Debug\08_RecapDemo1.pdb
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\obj\Debug\08_RecapDemo1.csproj.AssemblyReference.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\obj\Debug\08_RecapDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\obj\Debug\_08_RecapDemo1.Form1.resources
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\obj\Debug\_08_RecapDemo1.Properties.Resources.resources
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\obj\Debug\08_RecapDemo1.csproj.GenerateResource.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\obj\Debug\08_RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\obj\Debug\08_RecapDemo1.exe
+C:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\08_RecapDemo1\obj\Debug\08_RecapDemo1.pdb
