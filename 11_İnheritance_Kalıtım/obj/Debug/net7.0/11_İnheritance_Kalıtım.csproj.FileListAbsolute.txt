@@ -1,0 +1,15 @@
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\bin\Debug\net7.0\11_İnheritance_Kalıtım.exe
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\bin\Debug\net7.0\11_İnheritance_Kalıtım.deps.json
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\bin\Debug\net7.0\11_İnheritance_Kalıtım.runtimeconfig.json
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\bin\Debug\net7.0\11_İnheritance_Kalıtım.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\bin\Debug\net7.0\11_İnheritance_Kalıtım.pdb
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\obj\Debug\net7.0\11_İnheritance_Kalıtım.csproj.AssemblyReference.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\obj\Debug\net7.0\11_İnheritance_Kalıtım.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\obj\Debug\net7.0\11_İnheritance_Kalıtım.AssemblyInfoInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\obj\Debug\net7.0\11_İnheritance_Kalıtım.AssemblyInfo.cs
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\obj\Debug\net7.0\11_İnheritance_Kalıtım.csproj.CoreCompileInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\obj\Debug\net7.0\11_İnheritance_Kalıtım.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\obj\Debug\net7.0\refint\11_İnheritance_Kalıtım.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\obj\Debug\net7.0\11_İnheritance_Kalıtım.pdb
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\obj\Debug\net7.0\11_İnheritance_Kalıtım.genruntimeconfig.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\11_İnheritance_Kalıtım\obj\Debug\net7.0\ref\11_İnheritance_Kalıtım.dll

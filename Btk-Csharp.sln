@@ -3,25 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_VariablesandDataTypes", "Btk-Csharp\01_VariablesandDataTypes.csproj", "{938D0B85-FA96-49EC-B2F4-2BA1707D99A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_VariablesandDataTypes", "01_VariablesandDataTypes\01_VariablesandDataTypes.csproj", "{938D0B85-FA96-49EC-B2F4-2BA1707D99A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Condinationals", "02_Condinationals\02_Condinationals.csproj", "{E412C717-79E0-4CEF-9949-1901EB25263A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Condinationals", "02_Condinationals\02_Condinationals.csproj", "{E412C717-79E0-4CEF-9949-1901EB25263A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Methods", "03_Methods\03_Methods.csproj", "{856A0943-0C96-4546-95B9-4433161459FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Methods", "03_Methods\03_Methods.csproj", "{856A0943-0C96-4546-95B9-4433161459FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Arrays", "04_Arrays\04_Arrays.csproj", "{8A4D81ED-8D71-46BD-9A5F-D965C57EC6CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Arrays", "04_Arrays\04_Arrays.csproj", "{8A4D81ED-8D71-46BD-9A5F-D965C57EC6CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Loops", "05_Loops\05_Loops.csproj", "{B05B210F-1EF4-4024-9A57-03FCB7E9BF66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_Loops", "05_Loops\05_Loops.csproj", "{B05B210F-1EF4-4024-9A57-03FCB7E9BF66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Strings", "06_Strings\06_Strings.csproj", "{1B4DA643-32D9-4882-B244-82C801830361}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_Strings", "06_Strings\06_Strings.csproj", "{1B4DA643-32D9-4882-B244-82C801830361}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Classes", "07_Classes\07_Classes.csproj", "{C30B0B3F-36C7-4259-8AF6-812D7260AA61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_Classes", "07_Classes\07_Classes.csproj", "{C30B0B3F-36C7-4259-8AF6-812D7260AA61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Interfaces", "09_Interfaces\09_Interfaces.csproj", "{DF26662A-92B8-443E-B8E4-705B2A42AF22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_Interfaces", "09_Interfaces\09_Interfaces.csproj", "{DF26662A-92B8-443E-B8E4-705B2A42AF22}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_RecapDemo1", "08_RecapDemo1\08_RecapDemo1.csproj", "{7D0995E5-0E93-4130-81E0-0EBBC242FF57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Interfaces_Demo", "10_Interfaces_Demo\10_Interfaces_Demo.csproj", "{9E598EFC-AEB6-4C74-A414-CAD5D38CD3CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_Interfaces_Demo", "10_Interfaces_Demo\10_Interfaces_Demo.csproj", "{9E598EFC-AEB6-4C74-A414-CAD5D38CD3CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_İnheritance_Kalıtım", "11_İnheritance_Kalıtım\11_İnheritance_Kalıtım.csproj", "{BE918812-EC72-4BC5-98A0-DB457A550318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_VirtualMethods", "12_VirtualMethods\12_VirtualMethods.csproj", "{F7B2FB24-338B-4AF4-99C3-3462DBE102D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Abstract_Classes", "13_Abstract_Classes\13_Abstract_Classes.csproj", "{9D0FB12A-5477-4204-9E57-F1D0C44BDFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Recap_Demo2", "14_Recap_Demo2\14_Recap_Demo2.csproj", "{1FD06AEB-A887-40F9-81EF-049419C9CB24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Acces_Modifiers_Erişim_Bildirgeci", "15_Acces_Modifiers_Erişim_Bildirgeci\15_Acces_Modifiers_Erişim_Bildirgeci.csproj", "{D8CF0B21-40F9-430E-8641-44AE105EF667}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +79,26 @@ Global
 		{9E598EFC-AEB6-4C74-A414-CAD5D38CD3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E598EFC-AEB6-4C74-A414-CAD5D38CD3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E598EFC-AEB6-4C74-A414-CAD5D38CD3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE918812-EC72-4BC5-98A0-DB457A550318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE918812-EC72-4BC5-98A0-DB457A550318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE918812-EC72-4BC5-98A0-DB457A550318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE918812-EC72-4BC5-98A0-DB457A550318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B2FB24-338B-4AF4-99C3-3462DBE102D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B2FB24-338B-4AF4-99C3-3462DBE102D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B2FB24-338B-4AF4-99C3-3462DBE102D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B2FB24-338B-4AF4-99C3-3462DBE102D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0FB12A-5477-4204-9E57-F1D0C44BDFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0FB12A-5477-4204-9E57-F1D0C44BDFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0FB12A-5477-4204-9E57-F1D0C44BDFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0FB12A-5477-4204-9E57-F1D0C44BDFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD06AEB-A887-40F9-81EF-049419C9CB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD06AEB-A887-40F9-81EF-049419C9CB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD06AEB-A887-40F9-81EF-049419C9CB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD06AEB-A887-40F9-81EF-049419C9CB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CF0B21-40F9-430E-8641-44AE105EF667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CF0B21-40F9-430E-8641-44AE105EF667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CF0B21-40F9-430E-8641-44AE105EF667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CF0B21-40F9-430E-8641-44AE105EF667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

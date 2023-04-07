@@ -1,0 +1,15 @@
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\bin\Debug\net7.0\10_Interfaces_Demo.exe
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\bin\Debug\net7.0\10_Interfaces_Demo.deps.json
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\bin\Debug\net7.0\10_Interfaces_Demo.runtimeconfig.json
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\bin\Debug\net7.0\10_Interfaces_Demo.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\bin\Debug\net7.0\10_Interfaces_Demo.pdb
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\obj\Debug\net7.0\10_Interfaces_Demo.csproj.AssemblyReference.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\obj\Debug\net7.0\10_Interfaces_Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\obj\Debug\net7.0\10_Interfaces_Demo.AssemblyInfoInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\obj\Debug\net7.0\10_Interfaces_Demo.AssemblyInfo.cs
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\obj\Debug\net7.0\10_Interfaces_Demo.csproj.CoreCompileInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\obj\Debug\net7.0\10_Interfaces_Demo.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\obj\Debug\net7.0\refint\10_Interfaces_Demo.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\obj\Debug\net7.0\10_Interfaces_Demo.pdb
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\obj\Debug\net7.0\10_Interfaces_Demo.genruntimeconfig.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\10_Interfaces_Demo\obj\Debug\net7.0\ref\10_Interfaces_Demo.dll
