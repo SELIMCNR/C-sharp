@@ -5,6 +5,9 @@ Internal: Bağlı bulunan proje assembly içerisinde kullanılır.
 Public: Heryerden ulaşılabilir demek.
  */
 
+Customer customer1 = new Customer();
+customer1.Save();
+
 
 
 class Customer
