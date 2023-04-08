@@ -3,6 +3,9 @@
   base: Ana classı Database classını çalıştır.
  */
 
+Database database = new Database();
+database.Add();
+
 
 
 class Database
