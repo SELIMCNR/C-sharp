@@ -1,0 +1,15 @@
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\bin\Debug\net7.0\18_Collections.exe
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\bin\Debug\net7.0\18_Collections.deps.json
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\bin\Debug\net7.0\18_Collections.runtimeconfig.json
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\bin\Debug\net7.0\18_Collections.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\bin\Debug\net7.0\18_Collections.pdb
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\obj\Debug\net7.0\18_Collections.csproj.AssemblyReference.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\obj\Debug\net7.0\18_Collections.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\obj\Debug\net7.0\18_Collections.AssemblyInfoInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\obj\Debug\net7.0\18_Collections.AssemblyInfo.cs
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\obj\Debug\net7.0\18_Collections.csproj.CoreCompileInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\obj\Debug\net7.0\18_Collections.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\obj\Debug\net7.0\refint\18_Collections.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\obj\Debug\net7.0\18_Collections.pdb
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\obj\Debug\net7.0\18_Collections.genruntimeconfig.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\18_Collections\obj\Debug\net7.0\ref\18_Collections.dll

@@ -1,0 +1,15 @@
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\bin\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.exe
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\bin\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.deps.json
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\bin\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.runtimeconfig.json
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\bin\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\bin\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.pdb
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\obj\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.csproj.AssemblyReference.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\obj\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\obj\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.AssemblyInfoInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\obj\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.AssemblyInfo.cs
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\obj\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.csproj.CoreCompileInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\obj\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\obj\Debug\net7.0\refint\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\obj\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.pdb
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\obj\Debug\net7.0\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.genruntimeconfig.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\obj\Debug\net7.0\ref\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.dll

@@ -23,15 +23,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_RecapDemo1", "08_RecapDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_Interfaces_Demo", "10_Interfaces_Demo\10_Interfaces_Demo.csproj", "{9E598EFC-AEB6-4C74-A414-CAD5D38CD3CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_İnheritance_Kalıtım", "11_İnheritance_Kalıtım\11_İnheritance_Kalıtım.csproj", "{BE918812-EC72-4BC5-98A0-DB457A550318}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_İnheritance_Kalıtım", "11_İnheritance_Kalıtım\11_İnheritance_Kalıtım.csproj", "{BE918812-EC72-4BC5-98A0-DB457A550318}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_VirtualMethods", "12_VirtualMethods\12_VirtualMethods.csproj", "{F7B2FB24-338B-4AF4-99C3-3462DBE102D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_VirtualMethods", "12_VirtualMethods\12_VirtualMethods.csproj", "{F7B2FB24-338B-4AF4-99C3-3462DBE102D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Abstract_Classes", "13_Abstract_Classes\13_Abstract_Classes.csproj", "{9D0FB12A-5477-4204-9E57-F1D0C44BDFD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_Abstract_Classes", "13_Abstract_Classes\13_Abstract_Classes.csproj", "{9D0FB12A-5477-4204-9E57-F1D0C44BDFD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_Recap_Demo2", "14_Recap_Demo2\14_Recap_Demo2.csproj", "{1FD06AEB-A887-40F9-81EF-049419C9CB24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_Recap_Demo2", "14_Recap_Demo2\14_Recap_Demo2.csproj", "{1FD06AEB-A887-40F9-81EF-049419C9CB24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_Acces_Modifiers_Erişim_Bildirgeci", "15_Acces_Modifiers_Erişim_Bildirgeci\15_Acces_Modifiers_Erişim_Bildirgeci.csproj", "{D8CF0B21-40F9-430E-8641-44AE105EF667}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15_Acces_Modifiers_Erişim_Bildirgeci", "15_Acces_Modifiers_Erişim_Bildirgeci\15_Acces_Modifiers_Erişim_Bildirgeci.csproj", "{D8CF0B21-40F9-430E-8641-44AE105EF667}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_Constructors", "16_Constructors\16_Constructors.csproj", "{A3F0625B-53A8-463A-BC3E-9FF5777E1660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_ReferanceAndValueTypes_ReferansVeDeğerTipleri", "17_ReferanceAndValueTypes_ReferansVeDeğerTipleri\17_ReferanceAndValueTypes_ReferansVeDeğerTipleri.csproj", "{D3B55D81-2775-407E-AEE1-3078BE9479D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_Collections", "18_Collections\18_Collections.csproj", "{2AD4EE51-6641-45E0-BB2D-13765EB5648A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{D8CF0B21-40F9-430E-8641-44AE105EF667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8CF0B21-40F9-430E-8641-44AE105EF667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8CF0B21-40F9-430E-8641-44AE105EF667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F0625B-53A8-463A-BC3E-9FF5777E1660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F0625B-53A8-463A-BC3E-9FF5777E1660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F0625B-53A8-463A-BC3E-9FF5777E1660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F0625B-53A8-463A-BC3E-9FF5777E1660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B55D81-2775-407E-AEE1-3078BE9479D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B55D81-2775-407E-AEE1-3078BE9479D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B55D81-2775-407E-AEE1-3078BE9479D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B55D81-2775-407E-AEE1-3078BE9479D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD4EE51-6641-45E0-BB2D-13765EB5648A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD4EE51-6641-45E0-BB2D-13765EB5648A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD4EE51-6641-45E0-BB2D-13765EB5648A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD4EE51-6641-45E0-BB2D-13765EB5648A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

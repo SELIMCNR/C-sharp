@@ -1,0 +1,15 @@
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\bin\Debug\net7.0\16_Constructors.exe
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\bin\Debug\net7.0\16_Constructors.deps.json
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\bin\Debug\net7.0\16_Constructors.runtimeconfig.json
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\bin\Debug\net7.0\16_Constructors.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\bin\Debug\net7.0\16_Constructors.pdb
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\obj\Debug\net7.0\16_Constructors.csproj.AssemblyReference.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\obj\Debug\net7.0\16_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\obj\Debug\net7.0\16_Constructors.AssemblyInfoInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\obj\Debug\net7.0\16_Constructors.AssemblyInfo.cs
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\obj\Debug\net7.0\16_Constructors.csproj.CoreCompileInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\obj\Debug\net7.0\16_Constructors.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\obj\Debug\net7.0\refint\16_Constructors.dll
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\obj\Debug\net7.0\16_Constructors.pdb
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\obj\Debug\net7.0\16_Constructors.genruntimeconfig.cache
+F:\Dersler\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\16_Constructors\obj\Debug\net7.0\ref\16_Constructors.dll
