@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        string student1 = "Engin";
+        string student1 = "Engin ";
         string student2 = "Derin";
         string student3 = "Salih";
 
