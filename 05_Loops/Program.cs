@@ -6,7 +6,7 @@
         ForLoops();
         WhileLoop();
         DoWhileLoop();
-        ForEach();
+        ForEach(); 
 
         //Asal sayı uygulaması
         if (IsPrimeNumber(6))
