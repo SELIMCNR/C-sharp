@@ -8,19 +8,19 @@ namespace _07_Classes
 {
     public class Customer
     {
-        public string firstName; // field 
+        private string firstName; // field 
 
 
         // Müşterinin bilgilerini özelliklerini tutar
         public int Id
-        {
+        {                     
             get { return Id; }
             set { Id = value; }
         }
         // DIŞARDAN DEĞER EKLENDİĞİNDE SET BLOĞU ÇALIŞIR
         // Dışarıya değer verdiğinde get çalışır.
         public string FirstName
-        {
+        {    //değerleri değiştirmek istediğinde bunu kullan
             get { return "Mr" + firstName; } //encapsülation kapsülleme
             set { firstName = value; }
         }
