@@ -28,25 +28,25 @@ namespace _08_RecapDemo1
             {
                 for (int j = 0; j < buttons.GetUpperBound(1); j++)
                 {
-                    buttons[i, j] = new Button();
-                    buttons[i, j].Width = 50;
-                    buttons[i, j].Height = 50;
-                    buttons[i,j].Left = left;
-                    buttons[i, j].Top = top;
-                    left += 50;
-                    this.Controls.Add(buttons[i, j]);
+                    buttons[i, j] = new Button();  //button oluştur
+                    buttons[i, j].Width = 50;    //button genişlik
+                    buttons[i, j].Height = 50;    //button yükseklik
+                    buttons[i,j].Left = left;      //button sol değerini değişkenden al
+                    buttons[i, j].Top = top;         //button üst değerini değişkenden al
+                    left += 50;                     //değişken değeri artır
+                    this.Controls.Add(buttons[i, j]);     //forma buttonları ekle
                     if ((i + j) % 2 == 0)
-                    {
-                        buttons[i, j].BackColor = Color.Black;
+                    {                                    
+                        buttons[i, j].BackColor = Color.Black; //çiftse rengi siyah yap buttonun
 
                     }
                     else
                     {
-                        buttons[i,j].BackColor = Color.White;
+                        buttons[i,j].BackColor = Color.White;  //tekse rengi beyaz yap buttonun
                     }
                 }
                 top += 50;
-                left = 0;
+                left = 0; 
             
             }
 
