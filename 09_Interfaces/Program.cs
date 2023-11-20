@@ -9,6 +9,7 @@ internal class Program
         SqlDemo();
 
 
+        
         //Interfaceden array oluşturuldu 
         ICustomerDal[] customerDals = new ICustomerDal[3]
         {
