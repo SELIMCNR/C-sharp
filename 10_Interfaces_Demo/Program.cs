@@ -11,6 +11,7 @@
         IWorker[] workers = new IWorker[3]
         {
             new Manager(),
+            
             new Worker(),
             new Robot(),
         };
