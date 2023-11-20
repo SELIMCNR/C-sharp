@@ -16,6 +16,7 @@ database2.Add();
 database2.Delete();
 
 
+
 Console.ReadKey();
 
 abstract class Database
