@@ -6,6 +6,7 @@ NedenKoleksiyonlar();
 
 ArrayList();
 
+
 Lists();
 
 Dictionary();
