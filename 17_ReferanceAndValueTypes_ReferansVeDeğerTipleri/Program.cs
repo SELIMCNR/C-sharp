@@ -4,6 +4,7 @@
  Referans tipler: Classlar, interfaceler,abstract sınıflar,stringler ve arrayler. 
  Bellek te 2 farklı yer oluşur değerini tutan yer ve referansını tutan yer
  
+ 
  */
 
 //Değer tip
