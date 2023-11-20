@@ -9,6 +9,7 @@ classların tek başına bir anlamı var
 Elinden geldince interface kullan
  */
 
+
 //Classdan nesne oluştu
 Customer customer = new Customer();
 //oluşan nesneye değer atandı
