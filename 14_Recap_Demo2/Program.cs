@@ -11,6 +11,7 @@ logger.Log();
 //ve Ekrana yazdırdık
 Console.WriteLine("Customer added!");
 
+
 //CustomerManager classından yeni nesne oluştu
 CustomerManager customerManager = new CustomerManager();
 //Oluşan nesne Logger özelliği ile FileLogger classından newlendi
