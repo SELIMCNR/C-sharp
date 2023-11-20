@@ -2,6 +2,7 @@
  
  Constructor :  Sınıf newlendiği anda çalışacak kod bloğudur. 
  
+ 
  Constructor oluşturma kısayol ctor yaz taba bas oluşsun classın içinde
 
 Sayfalama işlemlerinde kullanılır. 
