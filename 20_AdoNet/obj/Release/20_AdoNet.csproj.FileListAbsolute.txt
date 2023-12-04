@@ -1,0 +1,10 @@
+F:\Dersler\yazilim\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\20_AdoNet\bin\Release\20_AdoNet.exe.config
+F:\Dersler\yazilim\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\20_AdoNet\bin\Release\20_AdoNet.exe
+F:\Dersler\yazilim\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\20_AdoNet\bin\Release\20_AdoNet.pdb
+F:\Dersler\yazilim\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\20_AdoNet\obj\Release\20_AdoNet.csproj.AssemblyReference.cache
+F:\Dersler\yazilim\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\20_AdoNet\obj\Release\_20_AdoNet.Properties.Resources.resources
+F:\Dersler\yazilim\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\20_AdoNet\obj\Release\20_AdoNet.csproj.GenerateResource.cache
+F:\Dersler\yazilim\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\20_AdoNet\obj\Release\20_AdoNet.csproj.CoreCompileInputs.cache
+F:\Dersler\yazilim\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\20_AdoNet\obj\Release\20_AdoNet.exe
+F:\Dersler\yazilim\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\20_AdoNet\obj\Release\20_AdoNet.pdb
+F:\Dersler\yazilim\Yazılım geliştirme\C#-programlama\Btk-Akademi\Btk-Csharp\20_AdoNet\obj\Release\_20_AdoNet.Form1.resources
